@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"target": "es6",
+		"declaration": true,
+		"outDir": "./dist"
+	},
+	"include": [
+		"src/**/*",
+		"tests"
+	]
+}
+  
